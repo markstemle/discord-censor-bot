@@ -1,0 +1,2 @@
+A detailed walkthrough of how to build this python program yourself can be found on my Medium Portfolio!
+https://medium.com/@markstemle/build-a-censoring-bot-in-discord-f36f0921df87
